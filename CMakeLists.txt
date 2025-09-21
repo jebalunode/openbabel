@@ -1,4 +1,4 @@
-# Please ensure that any changes remain compliant with 3.1.
+# Please ensure that any changes remain compliant with 3.10.5 or higher
 if(NOT EMBED_OPENBABEL)
   cmake_minimum_required(VERSION 3.10.5)
 endif()
